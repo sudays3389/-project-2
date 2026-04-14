@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+.bgimg1{
+    padding: 30px 300px;
+    background-image: url("./image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    width: 1319px;
+    height: 800px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn1{
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+}
