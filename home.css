@@ -14,7 +14,7 @@
 ul{
     list-style: none;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     gap: 40px;
 }
 a{
@@ -25,7 +25,7 @@ a{
 }
 .flex1{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .btn1{
     color: rgb(108, 24, 187);
@@ -34,4 +34,53 @@ a{
     padding: 5px 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: white;
+}
+.border1{
+    border: none;
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 240px;
+    padding: 10px 20px;
+    color: blueviolet;
+    font-size: 20px;
+    margin-top: 150px;
+}
+a{
+    color: blueviolet;
+}
+.text1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    font-weight: 650;
+}
+.text2{
+    margin-top: 30px;
+    color: grey;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn2{
+     color: rgb(255, 255, 255);
+     border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(108, 24, 187);
+}
+.btn3{
+     color: rgb(108, 24, 187);
+     border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    margin-left: 20px;
+}
+.flex2{
+    display: flex;
+    justify-content: space-between;
 }
