@@ -181,3 +181,35 @@ a{
     justify-content: center;
     gap: 40px;
 }
+.conteiner3{
+      width: 1319px;
+    height: 500px;
+    padding: 270px 300px;
+    background-image: url("./Path\ 606.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.text10{
+    font-size: 34px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+.img8{
+    margin-left: 590px;
+}
+.text11{
+    margin-left: 550px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+.flex6{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 90px;
+}
